@@ -1,0 +1,87 @@
+*{
+ padding:0 ;   
+ margin:  auto;
+ font-family: 'Times New Roman', Times, serif;
+}
+header
+{
+    width: 780px;
+    height: 55px;
+    background:#203b6a;
+}
+nav
+{
+float: right;
+}
+nav .menu ul
+{
+    list-style: none;
+}
+nav .menu ul li
+{
+display: inline-table;
+position: relative;
+}
+nav .menu ul li a
+{
+display: block;
+}
+nav .menu ul li > #sub-menu 
+{
+    display: none;
+    position: absolute;
+}
+nav .menu ul li:hover #sub-menu
+{
+    display: block;
+}
+.aside
+{
+    float: right; 
+    background: blue; 
+    width: 204px; 
+    height: 598px; 
+    margin-right: 99px
+}
+.aside img
+{
+    width: 203px;
+    height: 130px;
+}
+.content
+{
+    background: #00fffb;
+    width: 672px;
+    height: 598px;
+    padding-right: 108px;
+}
+.content img
+{
+    float: left;
+    margin-bottom: 12px;
+    padding-right: 63px;
+    margin-right: 139px;
+    padding-left: 0px;
+}
+.content span
+{
+    font-weight: bolder;
+}
+.content h2 ul
+{
+    list-style-type: square;
+    font-size: 14px;
+    font-weight: normal;
+    padding-left:36px;
+    padding-top: 2px;
+}
+.content h4
+{
+ font-size: 14px;
+ margin-top: 10px;
+}
+.content hr
+{
+    margin-left: 221px;
+    margin-top: 39px;
+}
