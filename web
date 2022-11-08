@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="margin-top: 61px;background: burlywood;">
+    <table>
+    <div class="header">
+    <header>
+     <a href="#"><img src="images/Logo.gif"></a>
+        <div class="menu">
+            <ul>
+                <li><a href=""><img src="images/Nut_GioiThieu.gif"></a></li>
+                <li><a href=""><img src="images/Nut_LienHe.gif"></a></li>
+                <li><a href=""><img src="images/Nut_ThuongMai.gif"></a></li>
+                <li><a href=""></a><img src="images/Nut_DichVu.gif"></li>
+                <li><a href=""></a><img src="images/Nut_DuLich.gif"></li>
+            </ul>
+        </div>
+    </header>
+    </div>
+    <div class="sidebar">
+    <sidebar>
+      <img src="images/GioiThieu_Hinh.gif"> 
+      <h1>
+        <img src="images/english.gif" > 
+        <img src="images/tiengviet.gif">
+      </h1>
+    </sidebar>
+    <div class="content">
+    <content>
+        <img src="images/GioiThieu_TieuDe.gif">
+        <p>
+            Tên công ty:<span> ÔNG TY CỔ PHẦN THƯƠNG MẠI & DU LỊCH SAIGON.</span>
+        <p> 
+        Tên nước ngoài:<span> SAIGON COMPANY TRADING & TOURIST SERVICES. </span>
+        </p>
+        Tên viết tắt: <span> SP.Co.</span>
+        <br>
+        Trụ sở đặt tại: 205 CMT8 - Phường 4 - Q3 - TPHCM.
+        <br>
+        Điện thoại: (84-8) 8 332 740 - 8 332 003.
+        <br>
+        Fax: (84-8) 8 332 642.
+        <br>
+        Email:
+        <a href="spco@hcm.fpt.vn hoặc spcohcm@hcm.vnn.vn">spco@hcm.fpt.vn </a>
+        hoặc
+        <a href="spcohcm@hcm.vnn.vn">spcohcm@hcm.vnn.vn </a>
+        <br>
+        Website:
+        <a href="http://www.spcovietnam.com">http://www.spcovietnam.com</a>
+        <h4>
+            Chức năng:<br><br>
+            </h4>
+        <h2>
+            <ul>
+               <li>Mua bán, đại lý ký gởi và du lịch nội địa:</li>
+              <ul>
+                   - Tư liệu sản xuất: Vật tư, nguyên liệu, máy móc, phụ tùng phục vụ sản
+                       xuất công nghiệp và thực phẩm công nghệ.<br>
+                   - Tư liệu tiêu dùng: Bách hoá - Kim khí điện máy, hàng điện tử, thủ        
+                       công mỹ nghệ.<br>
+                   - Du lịch nội địa: Lữ hành, khách sạn, vận chuyển khách du lịch, ăn       
+                       uống, hướng dẫn du lịch.<br>
+              </ul>
+               <li>Xe gắn máy và ôtô các loại, thủy hải sản, lương thực, thực phẩm,rượu bia, 
+               nước giải khát.</li>
+               <li>Vận tải hàng hoá bằng đường bộ. Dịch vụ vận chuyển.</li> 
+               <li>Dịch vụ giao nhận hàng hoá trong nước</li>
+               <li>Dịch vụ quảng cáo trên báo đài, tạp chí, ấn phẩm.</li>
+               <li>Cho thuê kho bãi.</li>
+               <li>Xây dựng dân dụng và cho thuê nhà ở.</li>
+               <li>Dịch vụ tư vấn hỗ trợ doanh nghiệp trong quản lý chuyển giao công nghệ, chất lượng sản phẩm, môi trường.</li>
+               <li>Đầu tư - xây dựng - kinh doanh kết cấu hạ tầng trong các khu công nghiệp, khu chế xuất, khu công nghệ cao.</li>
+            </ul>	 
+            </p>
+            <hr width="336px">
+        </h2>
+    </content>
+    </div>
+    </div>
+    <div class="footer">
+        <footer>
+            <h3>
+                xem tốt nhất với trình duyệt IE 5.0 trở lên.Độ phân giải 880x600
+            </h3>
+            </footer>
+    </div>
+</body>
+</html>
